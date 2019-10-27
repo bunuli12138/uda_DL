@@ -1,5 +1,5 @@
 ## course
-[Deep Learning nanometer degree on Udacity](https://cn.udacity.com/course/natural-language-processing-nanodegree--nd892-cn)
+[Deep Learning nanometer degree on Udacity](https://cn.udacity.com/course/deep-learning-nanodegree--nd101-cn-advanced)
 
 ## records(opened)
 - to start(Oct.30th)
